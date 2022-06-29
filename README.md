@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NhuqyGit
-- 👀 I’m interested in Programming, Cyper Security, CTF
+- 👀 I’m interested in Programming, Cyper Security
 - 🌱 I’m currently learning UNIVERSITY OF SCIENCE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kathonflag@gmail.com
