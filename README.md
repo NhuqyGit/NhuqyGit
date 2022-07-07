@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kathonflag@gmail.com
 
-<img = src"https://github-readme-stats.vercel.app/api?username=NhuqyGit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=NhuqyGit&&show_icons=true&title_color=fe428eicon_color=f8d847&text_color=a9fef7&bg_color=141321" />
+<img align="right" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhuqyGit&layout=compact&bg_color=141321&text_color=a9fef7" />
